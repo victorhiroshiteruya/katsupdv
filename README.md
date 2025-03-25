@@ -1,8 +1,8 @@
 # 🚀 KatsuPDV
 
 **Status**: 🛠️ Desenvolvimento Ativo  
-**Frontend**: Angular ![Angular Version](https://img.shields.io/badge/Angular-17-%23DD0031)  
-**Backend**: Spring Boot ![Spring Boot Version](https://img.shields.io/badge/Spring%20Boot-3.2-%236DB33F)  
+**Frontend**: Angular ![Angular Version](https://img.shields.io/badge/Angular-19-%23DD0031)  
+**Backend**: Spring Boot ![Spring Boot Version](https://img.shields.io/badge/Spring%20Boot-3.4.4-%236DB33F)  
 
 > ⚠️ **Projeto Pessoal em Construção**  
 > Este repositório é parte de meu aprendizado/portfolio. Estrutura e funcionalidades podem mudar radicalmente.
